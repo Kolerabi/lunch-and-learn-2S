@@ -3,3 +3,6 @@ AI text analytics
 
 
 Hei Andreas
+
+
+Hei igjen
